@@ -1,3 +1,6 @@
 [submodule "restfulwebapi"]
 	path = restfulwebapi
 	url = https://github.com/marcoswitcel/restfulwebapi.git
+[submodule "product-stock-app"]
+	path = product-stock-app
+	url = https://github.com/marcoswitcel/product-stock-app.git
