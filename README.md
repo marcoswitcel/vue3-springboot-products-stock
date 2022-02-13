@@ -2,7 +2,9 @@
 
 Esse repositório contém apenas a documentação e a relação dos repositórios relacionados com a demo.
 
-## Clonando esse repositório
+## Rodando locamente
+
+### Clonando esse repositório
 
 Como esse repositório inclui outros dois repositórios como submodulo, a forma mais simples é realizar um clone recursivo dos repositórios. Assim teremos todo o código atualizado acessível através desse repositório.
 
@@ -10,6 +12,14 @@ Como esse repositório inclui outros dois repositórios como submodulo, a forma 
 # Comando para clonar recursivamente esse repositório aqui
 git clone --recurse-submodules https://github.com/marcoswitcel/vue3-springboot-products-stock.git
 ```
+
+### Após clonar
+
+Cada projeto possui sua documentação específica de como rodar. Os próximos passos podem ser encontrados no README de cada respectivo módulo.
+
+* Frontend: [https://github.com/marcoswitcel/product-stock-app](https://github.com/marcoswitcel/product-stock-app)
+* Backend: [https://github.com/marcoswitcel/restfulwebapi](https://github.com/marcoswitcel/restfulwebapi)
+
 
 ## Referências
 
